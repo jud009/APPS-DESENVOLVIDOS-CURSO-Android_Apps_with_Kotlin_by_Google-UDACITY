@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="font_adamina_style">
+        <item name="android:fontFamily">@font/adamina</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>
